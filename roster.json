@@ -1,0 +1,342 @@
+[
+  {
+    "id": "p001",
+    "first": "Lara",
+    "last": "Somfai",
+    "img_class": 2024,
+    "position": "F",
+    "active": true,
+    "seasons": {
+      "2025-26": {
+        "team": "Stanford",
+        "url": "https://www.sports-reference.com/cbb/players/lara-somfai-1/gamelog/2026",
+        "photo": "https://i.imgur.com/ytUXHO2.jpg"
+      },
+      "2026-27": {
+        "team": "Texas Christian",
+        "url": "https://www.sports-reference.com/cbb/players/lara-somfai-1/gamelog/2027",
+        "photo": null
+      }
+    }
+  },
+  {
+    "id": "p002",
+    "first": "Kelis",
+    "last": "Fisher",
+    "img_class": 2024,
+    "position": "G",
+    "active": true,
+    "seasons": {
+      "2025-26": {
+        "team": "Connecticut",
+        "url": "https://www.sports-reference.com/cbb/players/kelis-fisher-1/gamelog/2026",
+        "photo": "https://i.imgur.com/CLLNFtL.jpg"
+      },
+      "2026-27": {
+        "team": "Connecticut",
+        "url": "https://www.sports-reference.com/cbb/players/kelis-fisher-1/gamelog/2027",
+        "photo": null
+      }
+    }
+  },
+  {
+    "id": "p003",
+    "first": "Deniya",
+    "last": "Prawl",
+    "img_class": 2024,
+    "position": "G",
+    "active": true,
+    "seasons": {
+      "2025-26": {
+        "team": "Tennessee",
+        "url": "https://www.sports-reference.com/cbb/players/deniya-prawl-1/gamelog/2026",
+        "photo": "https://i.imgur.com/ebXQrun.jpg"
+      },
+      "2026-27": {
+        "team": "Louisville",
+        "url": "https://www.sports-reference.com/cbb/players/deniya-prawl-1/gamelog/2027",
+        "photo": null
+      }
+    }
+  },
+  {
+    "id": "p004",
+    "first": "Brooklynn",
+    "last": "Charlo",
+    "img_class": 2024,
+    "position": "G",
+    "active": true,
+    "seasons": {
+      "2025-26": {
+        "team": "Memphis",
+        "url": "https://www.sports-reference.com/cbb/players/brooklynn-charlo-1/gamelog/2026",
+        "photo": "https://i.imgur.com/ZCbGAzk.jpg"
+      },
+      "2026-27": {
+        "team": "Sacramento State",
+        "url": "https://www.sports-reference.com/cbb/players/brooklynn-charlo-1/gamelog/2027",
+        "photo": null
+      }
+    }
+  },
+  {
+    "id": "p005",
+    "first": "Nylah",
+    "last": "Wilson",
+    "img_class": 2024,
+    "position": "G",
+    "active": true,
+    "seasons": {
+      "2025-26": {
+        "team": "Pittsburgh",
+        "url": "https://www.sports-reference.com/cbb/players/nylah-wilson-1/gamelog/2026",
+        "photo": "https://i.imgur.com/Q7r2ck7.jpg"
+      },
+      "2026-27": {
+        "team": "West Virginia",
+        "url": "https://www.sports-reference.com/cbb/players/nylah-wilson-1/gamelog/2027",
+        "photo": null
+      }
+    }
+  },
+  {
+    "id": "p006",
+    "first": "Manuella",
+    "last": "Alves",
+    "img_class": 2024,
+    "position": "F",
+    "active": true,
+    "seasons": {
+      "2025-26": {
+        "team": "Illinois",
+        "url": "https://www.sports-reference.com/cbb/players/manuella-alves-1.html",
+        "photo": "https://i.imgur.com/AklXXza.jpg"
+      },
+      "2026-27": {
+        "team": "Illinois",
+        "url": "https://www.sports-reference.com/cbb/players/manuella-alves-1/gamelog/2027",
+        "photo": null
+      }
+    }
+  },
+  {
+    "id": "p007",
+    "first": "Maddie",
+    "last": "Newbauer",
+    "img_class": 2024,
+    "position": "G",
+    "active": true,
+    "seasons": {
+      "2025-26": {
+        "team": "Mary Baldwin",
+        "url": "https://marybaldwinathletics.com/sports/womens-basketball/roster/madison-newbauer/2720",
+        "photo": "https://i.imgur.com/gVi1dSC.jpg"
+      },
+      "2026-27": {
+        "team": "Mary Baldwin",
+        "url": "https://marybaldwinathletics.com/sports/womens-basketball/roster/madison-newbauer/2720",
+        "photo": null
+      }
+    }
+  },
+  {
+    "id": "p008",
+    "first": "Georgia",
+    "last": "Pauli",
+    "img_class": 2024,
+    "position": null,
+    "active": false,
+    "seasons": {
+      "2025-26": {
+        "team": "Coast Guard",
+        "url": "https://coastguardathletics.com/sports/womens-basketball/roster/georgia-pauli/10354",
+        "photo": null
+      }
+    }
+  },
+  {
+    "id": "p009",
+    "first": "Azariah",
+    "last": "Smith",
+    "img_class": 2024,
+    "position": "G",
+    "active": false,
+    "seasons": {
+      "2025-26": {
+        "team": "Defiance",
+        "url": "https://www.defianceathletics.com/sports/wbkb/2025-26/bios/smith_azariah_p51q?view=gamelog",
+        "photo": "https://i.imgur.com/pg0f1Ay.jpg"
+      }
+    }
+  },
+  {
+    "id": "p011",
+    "first": "Kelsi",
+    "last": "Andrews",
+    "img_class": 2026,
+    "position": "F",
+    "active": true,
+    "seasons": {
+      "2026-27": {
+        "team": "South Carolina",
+        "url": "https://www.sports-reference.com/cbb/players/kelsi-andrews-1/gamelog/2027",
+        "photo": null
+      }
+    }
+  },
+  {
+    "id": "p012",
+    "first": "Asia",
+    "last": "Keels",
+    "img_class": 2026,
+    "position": "G",
+    "active": true,
+    "seasons": {
+      "2026-27": {
+        "team": "Norfolk State",
+        "url": "https://www.sports-reference.com/cbb/players/asia-keels-1/gamelog/2027",
+        "photo": null
+      }
+    }
+  },
+  {
+    "id": "p013",
+    "first": "Isi",
+    "last": "Etute",
+    "img_class": 2026,
+    "position": "F",
+    "active": true,
+    "seasons": {
+      "2026-27": {
+        "team": "Texas",
+        "url": "https://www.sports-reference.com/cbb/players/isi-etute-1/gamelog/2027",
+        "photo": null
+      }
+    }
+  },
+  {
+    "id": "p014",
+    "first": "Cai",
+    "last": "Roberson",
+    "img_class": 2026,
+    "position": "F",
+    "active": true,
+    "seasons": {
+      "2026-27": {
+        "team": "Maryland",
+        "url": "https://www.sports-reference.com/cbb/players/cai-roberson-1/gamelog/2027",
+        "photo": null
+      }
+    }
+  },
+  {
+    "id": "p015",
+    "first": "Emma",
+    "last": "Hart",
+    "img_class": 2026,
+    "position": "G",
+    "active": true,
+    "seasons": {
+      "2026-27": {
+        "team": "Denver",
+        "url": "https://www.sports-reference.com/cbb/players/emma-hart-2/gamelog/2027",
+        "photo": null
+      }
+    }
+  },
+  {
+    "id": "p016",
+    "first": "Nanna",
+    "last": "Skog",
+    "img_class": 2026,
+    "position": null,
+    "active": true,
+    "seasons": {
+      "2026-27": {
+        "team": "Jacksonville State",
+        "url": null,
+        "photo": null
+      }
+    }
+  },
+  {
+    "id": "p017",
+    "first": "Ella",
+    "last": "Gottlieb",
+    "img_class": 2026,
+    "position": "G",
+    "active": true,
+    "seasons": {
+      "2026-27": {
+        "team": "American",
+        "url": "https://www.sports-reference.com/cbb/players/ella-gottlieb-1.html",
+        "photo": null
+      }
+    }
+  },
+  {
+    "id": "p018",
+    "first": "Mak",
+    "last": "Haile",
+    "img_class": 2026,
+    "position": null,
+    "active": true,
+    "seasons": {
+      "2026-27": {
+        "team": "Palm Beach Atlantic",
+        "url": null,
+        "photo": null
+      }
+    }
+  },
+  {
+    "id": "p019",
+    "first": "Assata",
+    "last": "Stoudemire",
+    "img_class": 2026,
+    "position": null,
+    "active": true,
+    "seasons": {
+      "2026-27": {
+        "team": "Emory",
+        "url": null,
+        "photo": null
+      }
+    }
+  },
+  {
+    "id": "p020",
+    "first": "Zandra",
+    "last": "Spears",
+    "img_class": 2026,
+    "position": null,
+    "active": true,
+    "seasons": {
+      "2026-27": {
+        "team": "Lander",
+        "url": null,
+        "photo": null
+      }
+    }
+  },
+  {
+    "id": "p021",
+    "first": "Yufei",
+    "last": "Zou",
+    "img_class": 2024,
+    "position": "F",
+    "active": true,
+    "seasons": {
+      "2025-26": {
+        "team": "Dartmouth",
+        "url": "https://www.sports-reference.com/cbb/players/yufei-zou-1.html",
+        "photo": null
+      },
+      "2026-27": {
+        "team": "Dartmouth",
+        "url": "https://www.sports-reference.com/cbb/players/yufei-zou-1/gamelog/2027",
+        "photo": null
+      }
+    }
+  }
+]
