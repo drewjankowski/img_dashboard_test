@@ -10,12 +10,12 @@
       "2025-26": {
         "team": "Stanford",
         "url": "https://www.sports-reference.com/cbb/players/lara-somfai-1/gamelog/2026",
-        "photo": "https://i.imgur.com/ytUXHO2.jpg"
+        "photo": "img/p001.jpg"
       },
       "2026-27": {
         "team": "Texas Christian",
         "url": "https://www.sports-reference.com/cbb/players/lara-somfai-1/gamelog/2027",
-        "photo": null
+        "photo": "img/p001.jpg"
       }
     }
   },
@@ -30,12 +30,12 @@
       "2025-26": {
         "team": "Connecticut",
         "url": "https://www.sports-reference.com/cbb/players/kelis-fisher-1/gamelog/2026",
-        "photo": "https://i.imgur.com/CLLNFtL.jpg"
+        "photo": "img/p002.jpg"
       },
       "2026-27": {
         "team": "Connecticut",
         "url": "https://www.sports-reference.com/cbb/players/kelis-fisher-1/gamelog/2027",
-        "photo": null
+        "photo": "img/p002.jpg"
       }
     }
   },
@@ -50,12 +50,12 @@
       "2025-26": {
         "team": "Tennessee",
         "url": "https://www.sports-reference.com/cbb/players/deniya-prawl-1/gamelog/2026",
-        "photo": "https://i.imgur.com/ebXQrun.jpg"
+        "photo": "img/p003.jpg"
       },
       "2026-27": {
         "team": "Louisville",
         "url": "https://www.sports-reference.com/cbb/players/deniya-prawl-1/gamelog/2027",
-        "photo": null
+        "photo": "img/p003.jpg"
       }
     }
   },
@@ -70,12 +70,12 @@
       "2025-26": {
         "team": "Memphis",
         "url": "https://www.sports-reference.com/cbb/players/brooklynn-charlo-1/gamelog/2026",
-        "photo": "https://i.imgur.com/ZCbGAzk.jpg"
+        "photo": "img/p004.jpg"
       },
       "2026-27": {
         "team": "Sacramento State",
         "url": "https://www.sports-reference.com/cbb/players/brooklynn-charlo-1/gamelog/2027",
-        "photo": null
+        "photo": "img/p004.jpg"
       }
     }
   },
@@ -90,12 +90,12 @@
       "2025-26": {
         "team": "Pittsburgh",
         "url": "https://www.sports-reference.com/cbb/players/nylah-wilson-1/gamelog/2026",
-        "photo": "https://i.imgur.com/Q7r2ck7.jpg"
+        "photo": "img/p005.jpg"
       },
       "2026-27": {
         "team": "West Virginia",
         "url": "https://www.sports-reference.com/cbb/players/nylah-wilson-1/gamelog/2027",
-        "photo": null
+        "photo": "img/p005.jpg"
       }
     }
   },
@@ -110,12 +110,12 @@
       "2025-26": {
         "team": "Illinois",
         "url": "https://www.sports-reference.com/cbb/players/manuella-alves-1.html",
-        "photo": "https://i.imgur.com/AklXXza.jpg"
+        "photo": "img/p006.jpg"
       },
       "2026-27": {
         "team": "Illinois",
         "url": "https://www.sports-reference.com/cbb/players/manuella-alves-1/gamelog/2027",
-        "photo": null
+        "photo": "img/p006.jpg"
       }
     }
   },
@@ -130,12 +130,12 @@
       "2025-26": {
         "team": "Mary Baldwin",
         "url": "https://marybaldwinathletics.com/sports/womens-basketball/roster/madison-newbauer/2720",
-        "photo": "https://i.imgur.com/gVi1dSC.jpg"
+        "photo": "img/p007.jpg"
       },
       "2026-27": {
         "team": "Mary Baldwin",
         "url": "https://marybaldwinathletics.com/sports/womens-basketball/roster/madison-newbauer/2720",
-        "photo": null
+        "photo": "img/p007.jpg"
       }
     }
   },
@@ -165,7 +165,7 @@
       "2025-26": {
         "team": "Defiance",
         "url": "https://www.defianceathletics.com/sports/wbkb/2025-26/bios/smith_azariah_p51q?view=gamelog",
-        "photo": "https://i.imgur.com/pg0f1Ay.jpg"
+        "photo": "img/p009.jpg"
       }
     }
   },
@@ -180,7 +180,7 @@
       "2026-27": {
         "team": "South Carolina",
         "url": "https://www.sports-reference.com/cbb/players/kelsi-andrews-1/gamelog/2027",
-        "photo": null
+        "photo": "img/p011.jpg"
       }
     }
   },
@@ -195,7 +195,7 @@
       "2026-27": {
         "team": "Norfolk State",
         "url": "https://www.sports-reference.com/cbb/players/asia-keels-1/gamelog/2027",
-        "photo": null
+        "photo": "img/p012.jpg"
       }
     }
   },
@@ -210,7 +210,7 @@
       "2026-27": {
         "team": "Texas",
         "url": "https://www.sports-reference.com/cbb/players/isi-etute-1/gamelog/2027",
-        "photo": null
+        "photo": "img/p013.jpg"
       }
     }
   },
@@ -223,9 +223,9 @@
     "active": true,
     "seasons": {
       "2026-27": {
-        "team": "Maryland",
+        "team": "UMBC",
         "url": "https://www.sports-reference.com/cbb/players/cai-roberson-1/gamelog/2027",
-        "photo": null
+        "photo": "img/p014.jpg"
       }
     }
   },
@@ -240,7 +240,7 @@
       "2026-27": {
         "team": "Denver",
         "url": "https://www.sports-reference.com/cbb/players/emma-hart-2/gamelog/2027",
-        "photo": null
+        "photo": "img/p015.jpg"
       }
     }
   },
@@ -249,13 +249,13 @@
     "first": "Nanna",
     "last": "Skog",
     "img_class": 2026,
-    "position": null,
+    "position": "F",
     "active": true,
     "seasons": {
       "2026-27": {
         "team": "Jacksonville State",
-        "url": null,
-        "photo": null
+        "url": "https://jaxstatesports.com/sports/womens-basketball/roster/anna-skog/7805",
+        "photo": "img/p016.jpg"
       }
     }
   },
@@ -279,13 +279,13 @@
     "first": "Mak",
     "last": "Haile",
     "img_class": 2026,
-    "position": null,
+    "position": "G",
     "active": true,
     "seasons": {
       "2026-27": {
         "team": "Palm Beach Atlantic",
-        "url": null,
-        "photo": null
+        "url": "https://pbasailfish.com/sports/womens-basketball/roster/mak-haile/9124",
+        "photo": "img/p018.jpg"
       }
     }
   },
@@ -294,13 +294,13 @@
     "first": "Assata",
     "last": "Stoudemire",
     "img_class": 2026,
-    "position": null,
+    "position": "F",
     "active": true,
     "seasons": {
       "2026-27": {
-        "team": "Embry-Riddle",
-        "url": null,
-        "photo": null
+        "team": "Emmanuel",
+        "url": "https://goecsaints.com/sports/womens-basketball/roster/assata-stoudemire/5797",
+        "photo": "img/p019.jpg"
       }
     }
   },
@@ -309,13 +309,13 @@
     "first": "Zandra",
     "last": "Spears",
     "img_class": 2026,
-    "position": null,
+    "position": "G",
     "active": true,
     "seasons": {
       "2026-27": {
         "team": "Lander",
-        "url": null,
-        "photo": null
+        "url": "https://landerbearcats.com/sports/womens-basketball/roster/zandra-spears/10301",
+        "photo": "img/p020.jpg"
       }
     }
   },
@@ -330,12 +330,12 @@
       "2025-26": {
         "team": "Dartmouth",
         "url": "https://www.sports-reference.com/cbb/players/yufei-zou-1.html",
-        "photo": null
+        "photo": "img/p021.jpg"
       },
       "2026-27": {
         "team": "Dartmouth",
         "url": "https://www.sports-reference.com/cbb/players/yufei-zou-1/gamelog/2027",
-        "photo": null
+        "photo": "img/p021.jpg"
       }
     }
   }
