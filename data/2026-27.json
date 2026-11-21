@@ -172,6 +172,23 @@
    "source": "scraper"
   },
   {
+   "player_id": "p002",
+   "team": "Connecticut",
+   "game": 4,
+   "opp": "Seton Hall",
+   "result": "W 83-43",
+   "mp": 13,
+   "pts": 11,
+   "orb": 0,
+   "drb": 0,
+   "ast": 1,
+   "stl": 0,
+   "tov": 3,
+   "fg": 4,
+   "fga": 6,
+   "source": "scraper"
+  },
+  {
    "player_id": "p003",
    "team": "Louisville",
    "game": 1,
@@ -614,6 +631,23 @@
    "source": "scraper"
   },
   {
+   "player_id": "p012",
+   "team": "Norfolk State",
+   "game": 7,
+   "opp": "Campbell",
+   "result": "W 59-53",
+   "mp": 24,
+   "pts": 0,
+   "orb": 0,
+   "drb": 2,
+   "ast": 5,
+   "stl": 1,
+   "tov": 0,
+   "fg": 0,
+   "fga": 8,
+   "source": "scraper"
+  },
+  {
    "player_id": "p013",
    "team": "Texas",
    "game": 1,
@@ -700,7 +734,7 @@
   },
   {
    "player_id": "p014",
-   "team": "Maryland",
+   "team": "UMBC",
    "game": 1,
    "opp": "Stevenson",
    "result": "W 92-29",
@@ -717,7 +751,7 @@
   },
   {
    "player_id": "p014",
-   "team": "Maryland",
+   "team": "UMBC",
    "game": 2,
    "opp": "Mount St. Mary's",
    "result": "W 79-53",
@@ -734,7 +768,7 @@
   },
   {
    "player_id": "p014",
-   "team": "Maryland",
+   "team": "UMBC",
    "game": 3,
    "opp": "Quinnipiac",
    "result": "W 91-67",
@@ -751,7 +785,7 @@
   },
   {
    "player_id": "p014",
-   "team": "Maryland",
+   "team": "UMBC",
    "game": 4,
    "opp": "Morgan State",
    "result": "W 85-50",
