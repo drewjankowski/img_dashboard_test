@@ -3,7 +3,7 @@
     "id": "p001",
     "first": "Lara",
     "last": "Somfai",
-    "img_class": 2024,
+    "img_class": 2025,
     "position": "F",
     "active": true,
     "seasons": {
@@ -23,7 +23,7 @@
     "id": "p002",
     "first": "Kelis",
     "last": "Fisher",
-    "img_class": 2024,
+    "img_class": 2025,
     "position": "G",
     "active": true,
     "seasons": {
@@ -43,7 +43,7 @@
     "id": "p003",
     "first": "Deniya",
     "last": "Prawl",
-    "img_class": 2024,
+    "img_class": 2025,
     "position": "G",
     "active": true,
     "seasons": {
@@ -63,7 +63,7 @@
     "id": "p004",
     "first": "Brooklynn",
     "last": "Charlo",
-    "img_class": 2024,
+    "img_class": 2025,
     "position": "G",
     "active": true,
     "seasons": {
@@ -83,7 +83,7 @@
     "id": "p005",
     "first": "Nylah",
     "last": "Wilson",
-    "img_class": 2024,
+    "img_class": 2025,
     "position": "G",
     "active": true,
     "seasons": {
@@ -103,7 +103,7 @@
     "id": "p006",
     "first": "Manuella",
     "last": "Alves",
-    "img_class": 2024,
+    "img_class": 2025,
     "position": "F",
     "active": true,
     "seasons": {
@@ -123,7 +123,7 @@
     "id": "p007",
     "first": "Maddie",
     "last": "Newbauer",
-    "img_class": 2024,
+    "img_class": 2025,
     "position": "G",
     "active": true,
     "seasons": {
@@ -143,7 +143,7 @@
     "id": "p008",
     "first": "Georgia",
     "last": "Pauli",
-    "img_class": 2024,
+    "img_class": 2025,
     "position": null,
     "active": false,
     "seasons": {
@@ -158,7 +158,7 @@
     "id": "p009",
     "first": "Azariah",
     "last": "Smith",
-    "img_class": 2024,
+    "img_class": 2025,
     "position": "G",
     "active": false,
     "seasons": {
@@ -323,7 +323,7 @@
     "id": "p021",
     "first": "Yufei",
     "last": "Zou",
-    "img_class": 2024,
+    "img_class": 2025,
     "position": "F",
     "active": true,
     "seasons": {
