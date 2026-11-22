@@ -308,6 +308,23 @@
    "source": "scraper"
   },
   {
+   "player_id": "p003",
+   "team": "Louisville",
+   "game": 8,
+   "opp": "Ak. Anchorage",
+   "result": "W 113-40",
+   "mp": 12,
+   "pts": 2,
+   "orb": 2,
+   "drb": 3,
+   "ast": 1,
+   "stl": 1,
+   "tov": 1,
+   "fg": 0,
+   "fga": 2,
+   "source": "scraper"
+  },
+  {
    "player_id": "p005",
    "team": "West Virginia",
    "game": 1,
@@ -526,6 +543,23 @@
    "tov": 1,
    "fg": 1,
    "fga": 3,
+   "source": "scraper"
+  },
+  {
+   "player_id": "p011",
+   "team": "South Carolina",
+   "game": 5,
+   "opp": "Providence",
+   "result": "W 72-43",
+   "mp": 7,
+   "pts": 0,
+   "orb": 0,
+   "drb": 1,
+   "ast": 0,
+   "stl": 0,
+   "tov": 1,
+   "fg": 0,
+   "fga": 0,
    "source": "scraper"
   },
   {
