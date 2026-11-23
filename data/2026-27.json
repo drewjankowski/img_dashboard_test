@@ -121,6 +121,23 @@
    "source": "scraper"
   },
   {
+   "player_id": "p001",
+   "team": "Texas Christian",
+   "game": 8,
+   "opp": "Utah State",
+   "result": "W 85-26",
+   "mp": 24,
+   "pts": 10,
+   "orb": 2,
+   "drb": 9,
+   "ast": 0,
+   "stl": 1,
+   "tov": 1,
+   "fg": 5,
+   "fga": 14,
+   "source": "scraper"
+  },
+  {
    "player_id": "p002",
    "team": "Connecticut",
    "game": 1,
@@ -322,6 +339,23 @@
    "tov": 1,
    "fg": 0,
    "fga": 2,
+   "source": "scraper"
+  },
+  {
+   "player_id": "p003",
+   "team": "Louisville",
+   "game": 9,
+   "opp": "Seattle",
+   "result": "W 97-78",
+   "mp": 3,
+   "pts": 0,
+   "orb": 0,
+   "drb": 0,
+   "ast": 0,
+   "stl": 0,
+   "tov": 0,
+   "fg": 0,
+   "fga": 1,
    "source": "scraper"
   },
   {
@@ -763,6 +797,23 @@
    "stl": 1,
    "tov": 1,
    "fg": 1,
+   "fga": 2,
+   "source": "scraper"
+  },
+  {
+   "player_id": "p013",
+   "team": "Texas",
+   "game": 6,
+   "opp": "Ohio State",
+   "result": "W 75-61",
+   "mp": 12,
+   "pts": 4,
+   "orb": 1,
+   "drb": 3,
+   "ast": 0,
+   "stl": 0,
+   "tov": 2,
+   "fg": 0,
    "fga": 2,
    "source": "scraper"
   },
