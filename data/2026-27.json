@@ -716,6 +716,23 @@
    "source": "scraper"
   },
   {
+   "player_id": "p012",
+   "team": "Norfolk State",
+   "game": 8,
+   "opp": "Appalachian State",
+   "result": "W 58-56",
+   "mp": 29,
+   "pts": 4,
+   "orb": 0,
+   "drb": 3,
+   "ast": 4,
+   "stl": 1,
+   "tov": 2,
+   "fg": 2,
+   "fga": 9,
+   "source": "scraper"
+  },
+  {
    "player_id": "p013",
    "team": "Texas",
    "game": 1,
