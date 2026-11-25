@@ -206,6 +206,23 @@
    "source": "scraper"
   },
   {
+   "player_id": "p002",
+   "team": "Connecticut",
+   "game": 5,
+   "opp": "South Carolina",
+   "result": "L 56-65",
+   "mp": 9,
+   "pts": 5,
+   "orb": 4,
+   "drb": 0,
+   "ast": 0,
+   "stl": 0,
+   "tov": 2,
+   "fg": 1,
+   "fga": 5,
+   "source": "scraper"
+  },
+  {
    "player_id": "p003",
    "team": "Louisville",
    "game": 1,
@@ -444,6 +461,23 @@
    "source": "scraper"
   },
   {
+   "player_id": "p005",
+   "team": "West Virginia",
+   "game": 6,
+   "opp": "Florida",
+   "result": "W 70-62",
+   "mp": 16,
+   "pts": 7,
+   "orb": 0,
+   "drb": 0,
+   "ast": 0,
+   "stl": 1,
+   "tov": 1,
+   "fg": 3,
+   "fga": 8,
+   "source": "scraper"
+  },
+  {
    "player_id": "p006",
    "team": "Illinois",
    "game": 1,
@@ -594,6 +628,23 @@
    "tov": 1,
    "fg": 0,
    "fga": 0,
+   "source": "scraper"
+  },
+  {
+   "player_id": "p011",
+   "team": "South Carolina",
+   "game": 6,
+   "opp": "Connecticut",
+   "result": "W 65-56",
+   "mp": 6,
+   "pts": 0,
+   "orb": 0,
+   "drb": 0,
+   "ast": 0,
+   "stl": 0,
+   "tov": 2,
+   "fg": 0,
+   "fga": 1,
    "source": "scraper"
   },
   {
