@@ -886,6 +886,23 @@
    "source": "scraper"
   },
   {
+   "player_id": "p013",
+   "team": "Texas",
+   "game": 7,
+   "opp": "Southeastern Louisiana",
+   "result": "W 96-45",
+   "mp": 25,
+   "pts": 18,
+   "orb": 2,
+   "drb": 0,
+   "ast": 1,
+   "stl": 2,
+   "tov": 1,
+   "fg": 7,
+   "fga": 10,
+   "source": "scraper"
+  },
+  {
    "player_id": "p014",
    "team": "UMBC",
    "game": 1,
