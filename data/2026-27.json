@@ -478,6 +478,23 @@
    "source": "scraper"
   },
   {
+   "player_id": "p005",
+   "team": "West Virginia",
+   "game": 7,
+   "opp": "Notre Dame",
+   "result": "L 64-78",
+   "mp": 18,
+   "pts": 4,
+   "orb": 1,
+   "drb": 1,
+   "ast": 1,
+   "stl": 0,
+   "tov": 1,
+   "fg": 2,
+   "fga": 6,
+   "source": "scraper"
+  },
+  {
    "player_id": "p006",
    "team": "Illinois",
    "game": 1,
